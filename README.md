@@ -1,2 +1,2 @@
 # Tesla-clone
-An exact mirror version of the tesla webpage
+An exact mirrored version of the tesla webpage
