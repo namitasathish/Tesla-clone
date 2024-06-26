@@ -1,2 +1,3 @@
 # Tesla-clone
-An exact mirrored version of the tesla webpage
+Tesla Webpage UI Clone, that mirrors the actual tesla page
+
